@@ -93,14 +93,14 @@ Estimating Node Importance on Heterogeneous Information Networks for High Potent
 </div>
 </div>
 
-## 📑 Patents \& Software Copyrights
+## 📑 Patents & Software Copyrights
 
 <div class='paper-box-text' markdown="1">
-- Chen, W.; **Guan, K.**; Chen, B.; Liu, J.; Chen, W. A Method for Identifying and Predicting High-Potential Academic Entities Based on Heterogeneous Graph Transformer: ZL 2025 1 1125958.8 [P]. 2025-10-14.
-- Chen, W.; **Guan, K.**; Chen, B.; Yuan, F.; Liu, J. A Research Project Expert Matching Method Based on Dynamic Academic Collaboration Network Graph Representation Learning: ZL 2024 1 1741778.8 [P]. 2025-02-07.
-- Chen, W.; Chen, B.; Liu, J.; Li, B.; He, Y.; Miao, R.; Zhang, Y.; Chen, S.; **Guan, K.** A Method for Funding Efficiency Evaluation and Optimal Allocation under Input Uncertainty: CN202510276541.5 [P]. 2025-04-11.
-- Chen, W.; Miao, Y.; Chen, B.; Liu, F.; **Guan, K.**; Xiu, Y. A Method for Periodic Project Resource Reallocation Based on Network DEA: CN202311710810.1 [P]. 2024-01-12.
-- Chen, W.; Chen, B.; **Guan, K.**; Chen, S.; Miao, R.; Xiu, Y.; Miao, Y.; Liu, W. Software for Evaluating the Impact of Science and Technology Talent Programs on Scholars V1.0: 2025SR0393433 [CP]. 2025-03-06. National Copyright Administration of China.
+- Chen, W., **Guan, K.**, Chen, B., Liu, J., Chen, W. A Method for Identifying and Predicting High-Potential Academic Entities Based on Heterogeneous Graph Transformer: ZL 2025 1 1125958.8 [P]. 2025-10-14.
+- Chen, W., **Guan, K.**, Chen, B., Yuan, F., Liu, J. A Research Project Expert Matching Method Based on Dynamic Academic Collaboration Network Graph Representation Learning: ZL 2024 1 1741778.8 [P]. 2025-02-07.
+- Chen, W., Chen, B., Liu, J., Li, B., He, Y., Miao, R., Zhang, Y., Chen, S., **Guan, K.** A Method for Funding Efficiency Evaluation and Optimal Allocation under Input Uncertainty: CN202510276541.5 [P]. 2025-04-11.
+- Chen, W., Miao, Y., Chen, B., Liu, F., **Guan, K.**, Xiu, Y. A Method for Periodic Project Resource Reallocation Based on Network DEA: CN202311710810.1 [P]. 2024-01-12.
+- Chen, W., Chen, B., **Guan, K.**, Chen, S., Miao, R., Xiu, Y., Miao, Y., Liu, W. Software for Evaluating the Impact of Science and Technology Talent Programs on Scholars V1.0: 2025SR0393433 [CP]. 2025-03-06. National Copyright Administration of China.
 </div>
 
 ## 📖 Recent work
