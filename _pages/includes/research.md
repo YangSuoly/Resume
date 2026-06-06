@@ -78,14 +78,11 @@ Gong, X., **Guan, K.**, Chen, L., Liu, T. \*, Fu, C. (2021)
 - Liu, J., **Guan, K.**, Chen, S., Chen, W., Chan, V., (2025). [PENM: A Parametric Evolutionary Network Model For Scholar Collaboration Network Simulation](https://doi.org/10.1109/WSC68292.2025.11339083), 2025 Winter Simulation Conference, pp. 592–603, Seattle, WA, December 7-10, 2025. (Leading conference in Tsinghua SIGS).
 - **Guan, K.**, Chan, W. K. V. (2026),  Interpretable Metric System for Academic Potential Prediction: Integrating Network Topology and Decision Support. INFORMS Conference on Service Science (Leading conference in Tsinghua SIGS), 2026. Accepted .
 </div>
-
-
-
-
 ## 📖 Working Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Neural Networks and Learning Systems (SCI-Q1)</div><img src='images/tnnls-htagt/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 Estimating Node Importance on Heterogeneous Information Networks for High Potential Academic Entity Recognition \\
 **Guan, K.**, Chen, W., Chan, W. K. V.
@@ -94,6 +91,16 @@ Estimating Node Importance on Heterogeneous Information Networks for High Potent
 - We provide a framework to explore a relatively underexplored aspect of the NIE problem, namely forecasting the future impact of academic entities. 
 - We introduce a heterogeneous type-attentive graph Transformer designed to exploit both global and local contextual features in heterogeneous information networks.
 </div>
+</div>
+
+## 📑 Patents \& Software Copyrights
+
+<div class='paper-box-text' markdown="1">
+- Chen, W.; **Guan, K.**; Chen, B.; Liu, J.; Chen, W. A Method for Identifying and Predicting High-Potential Academic Entities Based on Heterogeneous Graph Transformer: ZL 2025 1 1125958.8 [P]. 2025-10-14.
+- Chen, W.; **Guan, K.**; Chen, B.; Yuan, F.; Liu, J. A Research Project Expert Matching Method Based on Dynamic Academic Collaboration Network Graph Representation Learning: ZL 2024 1 1741778.8 [P]. 2025-02-07.
+- Chen, W.; Chen, B.; Liu, J.; Li, B.; He, Y.; Miao, R.; Zhang, Y.; Chen, S.; **Guan, K.** A Method for Funding Efficiency Evaluation and Optimal Allocation under Input Uncertainty: CN202510276541.5 [P]. 2025-04-11.
+- Chen, W.; Miao, Y.; Chen, B.; Liu, F.; **Guan, K.**; Xiu, Y. A Method for Periodic Project Resource Reallocation Based on Network DEA: CN202311710810.1 [P]. 2024-01-12.
+- Chen, W.; Chen, B.; **Guan, K.**; Chen, S.; Miao, R.; Xiu, Y.; Miao, Y.; Liu, W. Software for Evaluating the Impact of Science and Technology Talent Programs on Scholars V1.0: 2025SR0393433 [CP]. 2025-03-06. National Copyright Administration of China.
 </div>
 
 ## 📖 Recent work
