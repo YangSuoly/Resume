@@ -4,13 +4,13 @@
 <!-- \\- ,  Resources Policy (ABS 2-star). [\href{}{paper}]
 \\-  , , Journal of Futures Markets (ABS 3-star). [\href{}{paper}] -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Processing \& Management (2025)</div><img src='images/ipm-ted/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Processing & Management (2025)</div><img src='images/ipm-ted/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [TEDRec: Transformer-based scientific collaborator recommendation via textual-edge dynamic network modeling](https://doi.org/10.1016/j.ipm.2025.104283). 
 
  **Guan, K.**,  Huang, W., Chen, T., Chan, WKV.\*  (2025).
 
-- This paper is recently accepted by Information Processing \& Management (CCF B, ABS-2 star).
+- This paper is recently accepted by Information Processing & Management (CCF B, ABS-2 star).
 - We implement a novel academic collaborator recommendation framework called TEDRec, comprehensively modeling the collaboration network from three key elements, i.e., temporality, textual edges, structural relationships.
 - Our data construction method can provide an innovative idea to build high-quality datasets for other fields.
 - **Conclusion**: The proposed framework does achieve superb performance over baseline models across all evaluation metrics, indicating excellent generalization and robustness.
@@ -53,8 +53,8 @@ futures prices based on natural language processing and machine learning.
 <div class='paper-box-text' markdown="1">
 [What drives oil prices?—A Markov switching VAR approach.](https://doi.org/10.1016/j.resourpol.2021.102316) \\
 Gong, X., **Guan, K.**, Chen, L., Liu, T. \*, Fu, C. (2021)
-
 **Project** <strong><span class='show_paper_citations' data='xLYHeSUAAAAJ:u-x6o8ySG0sC'></span></strong>
+
 - This work is published on Resources Policy (ABS 2-star)
 - We construct a five-variable Markov switching vector auto-regressions model based on five driving factors.
 - We build this model to study the impact of different oil shocks on oil prices and analyze the factors under different regime conditions.
@@ -74,22 +74,24 @@ Gong, X., **Guan, K.**, Chen, L., Liu, T. \*, Fu, C. (2021)
 </div>
 <div class='paper-box-text' markdown="1">
 - Liu, W., Xiu, Y., Xiong, Z., **Guan, K.**, Chen, B., Chan, V. (2024). Exploring City-Level Scholar Funding Service Impact: A Data-Driven Decision-Making System based on Difference-in-Differences Method,2024 IEEE International Conference on Service Operations and Logistics, and Informatics (Leading conference under Tsinghua SIGS Management Science and Engineering Program (2025 Edition)).
-- Yuan, F., **Guan, K.**, Chen, S., Chen, B., Chan, V., (2025). From Proposals to Outcomes: Concept-Aligned Chunking for Cross-Document Relevance Assessment in Research Funding Review, 2025 INFORMS Conference on Service Science (Leading conference in Tsinghua SIGS). Accepted.
-- Liu, J., **Guan, K.**, Chen, S., Chen, W., Chan, V., (2025). PENM: A Parametric Evolutionary Network Model For Scholar Collaboration Network Simulation, 2025 Winter Simulation Conference  (Leading conference in Tsinghua SIGS). Accepted.
+- Yuan, F., **Guan, K.**, Chen, S., Chen, B., Chan, V., (2025). [From Proposals to Outcomes: Concept-Aligned Chunking for Cross-Document Relevance Assessment in Research Funding Review](https://link.springer.com/chapter/10.1007/978-3-032-13116-4_6), 2025 INFORMS Conference on Service Science (pp. 66–77).  (Leading conference in Tsinghua SIGS).
+- Liu, J., **Guan, K.**, Chen, S., Chen, W., Chan, V., (2025). [PENM: A Parametric Evolutionary Network Model For Scholar Collaboration Network Simulation](https://doi.org/10.1109/WSC68292.2025.11339083), 2025 Winter Simulation Conference, pp. 592–603, Seattle, WA, December 7-10, 2025. (Leading conference in Tsinghua SIGS).
+- **Guan, K.**, Chan, W. K. V. (2026),  Interpretable Metric System for Academic Potential Prediction: Integrating Network Topology and Decision Support. INFORMS Conference on Service Science (Leading conference in Tsinghua SIGS), 2026. Accepted .
 </div>
+
 
 
 ## 📖 Working Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing of Environment (SCIE-Q1)</div><img src='images/rse-transfer/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing of Environment (SCIE-Q1)</div><img src='images/tnnls-htagt/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Classification of small sample vegetation based on hyperspectral remote sensing and transfer learning \\
-Huang, W., **Guan, K.\***, Hu, Y.
+Estimating Node Importance on Heterogeneous Information Networks for High Potential Academic Entity Recognition \\
+**Guan, K.**, Chen, W., Chan, W. K. V.
 
-- This working paper is under review at Remote Sensing of Environment (SCIE-Q1).
-- We provide a framework to efficiently perform hyperspectral classification of small samples of vegetation, which reduces model overfitting and diminishes category imbalance interference.
-- We adopt transfer learning to alleviate spectral data shortage and innovatively consider cross-domain learning of spectra.
+- This working paper is under revision at IEEE Transactions on Neural Networks and Learning Systems (SCI-Q1).
+- We provide a framework to explore a relatively underexplored aspect of the NIE problem, namely forecasting the future impact of academic entities. 
+- We introduce a heterogeneous type-attentive graph Transformer designed to exploit both global and local contextual features in heterogeneous information networks.
 </div>
 </div>
 
