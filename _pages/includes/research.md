@@ -73,7 +73,7 @@ Gong, X., **Guan, K.**, Chen, L., Liu, T. \*, Fu, C. (2021)
 - Miao, Y., Liu, F., **Guan, K.**, Xiu, Y., Chen, B., Chan, V. (2024). [Conservative Periodic Reallocation Framework: Deciding research resources for research projects based on network DEA](https://doi.org/10.1109/ICCET62255.2024.00017), 2024 7th International Conference on Communication Engineering and Technology (ICCET), Tokyo, Japan, pp. 59-65.
 </div>
 <div class='paper-box-text' markdown="1">
-- Liu, W., Xiu, Y., Xiong, Z., **Guan, K.**, Chen, B., Chan, V. (2024). Exploring City-Level Scholar Funding Service Impact: A Data-Driven Decision-Making System based on Difference-in-Differences Method,2024 IEEE International Conference on Service Operations and Logistics, and Informatics (Leading conference under Tsinghua SIGS Management Science and Engineering Program (2025 Edition)).
+- Liu, W., Xiu, Y., Xiong, Z., **Guan, K.**, Chen, B., Chan, V. (2024). [Exploring City-Level Scholar Funding Service Impact: A Data-Driven Decision-Making System based on Difference-in-Differences Method](https://ieeexplore.ieee.org/abstract/document/10955993/),2024 IEEE International Conference on Service Operations and Logistics, and Informatics (Leading conference under Tsinghua SIGS Management Science and Engineering Program (2025 Edition)).
 - Yuan, F., **Guan, K.**, Chen, S., Chen, B., Chan, V., (2025). [From Proposals to Outcomes: Concept-Aligned Chunking for Cross-Document Relevance Assessment in Research Funding Review](https://link.springer.com/chapter/10.1007/978-3-032-13116-4_6), 2025 INFORMS Conference on Service Science (pp. 66–77).  (Leading conference in Tsinghua SIGS).
 - Liu, J., **Guan, K.**, Chen, S., Chen, W., Chan, V., (2025). [PENM: A Parametric Evolutionary Network Model For Scholar Collaboration Network Simulation](https://doi.org/10.1109/WSC68292.2025.11339083), 2025 Winter Simulation Conference, pp. 592–603, Seattle, WA, December 7-10, 2025. (Leading conference in Tsinghua SIGS).
 - **Guan, K.**, Chan, W. K. V. (2026),  Interpretable Metric System for Academic Potential Prediction: Integrating Network Topology and Decision Support. INFORMS Conference on Service Science (Leading conference in Tsinghua SIGS), 2026. Accepted .
@@ -81,9 +81,10 @@ Gong, X., **Guan, K.**, Chen, L., Liu, T. \*, Fu, C. (2021)
 
 
 
+
 ## 📖 Working Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing of Environment (SCIE-Q1)</div><img src='images/tnnls-htagt/framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Neural Networks and Learning Systems (SCI-Q1)</div><img src='images/tnnls-htagt/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Estimating Node Importance on Heterogeneous Information Networks for High Potential Academic Entity Recognition \\
