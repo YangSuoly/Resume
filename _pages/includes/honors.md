@@ -1,5 +1,7 @@
 # 🎖 HONORS AND AWARDS
 ## 🏅 Scholarship
+- *2025*, TBSI Leaders of Tomorrow Scholarship (Merit Scholarship), Tsinghua University. 
+- 2025, The Second Prize Scholarship, Tsinghua University.
 - *2024*, TBSI Leaders of Tomorrow Scholarship (Merit Scholarship), Tsinghua University.
 - *2023*, Anta Graduate Scholarship, Xiamen University. [\[Certificate\]](https://drive.google.com/file/d/1bUPTLqZGyXfKeNYTLzqOQX54vjxgDdIt/view?usp=drive_link)
 - *2022*, Hong Xin Graduate Scholarship, Xiamen University. [\[Certificate\]](https://drive.google.com/file/d/1kqxGSojIxLLWrJYBdyEIA80-l-i0UgZf/view?usp=sharing)
