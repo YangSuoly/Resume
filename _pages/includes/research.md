@@ -96,11 +96,29 @@ Estimating Node Importance on Heterogeneous Information Networks for High Potent
 ## 📑 Patents & Software Copyrights
 
 <div class='paper-box-text' markdown="1">
-- Chen, W., **Guan, K.**, Chen, B., Liu, J., Chen, W. A Method for Identifying and Predicting High-Potential Academic Entities Based on Heterogeneous Graph Transformer: ZL 2025 1 1125958.8 [P]. 2025-10-14.
-- Chen, W., **Guan, K.**, Chen, B., Yuan, F., Liu, J. A Research Project Expert Matching Method Based on Dynamic Academic Collaboration Network Graph Representation Learning: ZL 2024 1 1741778.8 [P]. 2025-02-07.
-- Chen, W., Chen, B., Liu, J., Li, B., He, Y., Miao, R., Zhang, Y., Chen, S., **Guan, K.** A Method for Funding Efficiency Evaluation and Optimal Allocation under Input Uncertainty: CN202510276541.5 [P]. 2025-04-11.
-- Chen, W., Miao, Y., Chen, B., Liu, F., **Guan, K.**, Xiu, Y. A Method for Periodic Project Resource Reallocation Based on Network DEA: CN202311710810.1 [P]. 2024-01-12.
-- Chen, W., Chen, B., **Guan, K.**, Chen, S., Miao, R., Xiu, Y., Miao, Y., Liu, W. Software for Evaluating the Impact of Science and Technology Talent Programs on Scholars V1.0: 2025SR0393433 [CP]. 2025-03-06. National Copyright Administration of China.
+- Chen, W., **Guan, K.**, Chen, B., Liu, J., Chen, W. A heterogeneous graph Transformer-based method for identifying and predicting high-development-potential academic entities: ZL 2025 1 1125958.8 [P]. 2025-10-14 (Chinese).\\
+陈伟坚，**管柯琴**，陈博奎，刘家栋，陈伟. 一种基于异构图 Transformer 的高发展潜力学术实体识别和预测方法: ZL 2025 1 1125958.8 [P]. 2025-10-14.
+</div>
+
+<div class='paper-box-text' markdown="1">
+- Chen, W., **Guan, K.**, Chen, B., Yuan, F., Liu, J. A research project expert matching method based on graph representation learning over dynamic academic collaboration networks: ZL 2024 1 1741778.8 [P]. 2025-02-07 (Chinese).\\
+陈伟坚，**管柯琴**，陈博奎，袁凤池，刘家栋. 一种基于动态学术合作网络图表征学习的科研项目专家匹配方法: ZL 2024 1 1741778.8 [P]. 2025-02-07.
+</div>
+
+<div class='paper-box-text' markdown="1">
+- Chen, W., Chen, B., Liu, J., Li, B., He, Y., Miao, R., Zhang, Y., Chen, S., **Guan, K.** A method for evaluating funding efficiency and optimizing allocation under input uncertainty: CN202510276541.5 [P]. 2025-04-11 (Chinese).\\
+陈伟坚，陈博奎，刘家栋，李伯泽，何彦东，苗润青，张永豪，陈思雨，**管柯琴**. 一种投入不确定的资金效率评估与优化分配方法: CN202510276541.5 [P]. 2025-04-11.
+</div>
+
+<div class='paper-box-text' markdown="1">
+- Chen, W., Miao, Y., Chen, B., Liu, F., **Guan, K.**, Xiu, Y. A network DEA-based method for periodic resource reallocation in projects: CN202311710810.1 [P]. 2024-01-12 (Chinese).\\
+陈伟坚，苗雨晴，陈博奎，刘菲雪，**管柯琴**，修宇璇. 一种基于网络 DEA 的项目周期性资源再分配方法: CN202311710810.1 [P]. 2024-01-12.
+</div>
+
+
+<div class='paper-box-text' markdown="1">
+- Chen, W., Chen, B., **Guan, K.**, Chen, S., Miao, R., Xiu, Y., Miao, Y., Liu, W. 2025SR0393433. Software for Evaluating the Impact of Science and Technology Talent Programs on Scholars, V1.0 [2025-03-06]. National Copyright Administration of China (Chinese).\\
+陈伟坚，陈博奎，**管柯琴**，陈思雨，苗润青，修宇璇，苗雨晴，刘文昕. 2025SR0393433. 科技人才项目对学者影响力评估软件 V1.0 [2025-03-06]. 国家版权局.
 </div>
 
 ## 📖 Recent work
